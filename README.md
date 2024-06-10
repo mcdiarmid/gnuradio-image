@@ -1,4 +1,4 @@
-# gnuradio-docker
+# gnuradio-image
 Quick and easy Docker image for running GNURadio.
 This leverages the Docker images defined by official GNURadio maintainers, used in Github workflows of the GNURadio repository.
 
